@@ -15,7 +15,7 @@ export default function App() {
   return (
     <Container >
       <Menu />
-      <ScrollView style={{ height : "100%" }}>
+      <ScrollView style={{ height : "1000%" }}>
           <StatusBar style="auto" />
           <TitleBar>
             <Avatar source={require("./assets/avatar.jpg")} />
